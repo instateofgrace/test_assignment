@@ -42,11 +42,11 @@ Dask - For parallel computing and optimizing data frame computations.
 Plotly - For plotting the candlestick chart.
 
 5m TF EMA 50
-![image](https://github.com/instateofgrace/test_assignment/assets/78905325/fe803460-79b5-473c-aefd-4b6fb3951aa2)
-![image](https://github.com/instateofgrace/test_assignment/assets/78905325/9c5f9acb-430e-48b1-9f1e-80c36c3bebd4)
+[image](https://github.com/instateofgrace/test_assignment/assets/78905325/fe803460-79b5-473c-aefd-4b6fb3951aa2)
+[image](https://github.com/instateofgrace/test_assignment/assets/78905325/9c5f9acb-430e-48b1-9f1e-80c36c3bebd4)
 1H TF EMA 50
-![image](https://github.com/instateofgrace/test_assignment/assets/78905325/7c473bc5-eab3-4432-9920-646bc4e876b2)
-![image](https://github.com/instateofgrace/test_assignment/assets/78905325/b0bc3c3f-086b-4f53-8ee8-881baac0e651)
+[image](https://github.com/instateofgrace/test_assignment/assets/78905325/7c473bc5-eab3-4432-9920-646bc4e876b2)
+[image](https://github.com/instateofgrace/test_assignment/assets/78905325/b0bc3c3f-086b-4f53-8ee8-881baac0e651)
 
 Running tests
-![image](https://github.com/instateofgrace/test_assignment/assets/78905325/82aeb6a2-711c-4412-a0c0-2e5708695e61)
+[image](https://github.com/instateofgrace/test_assignment/assets/78905325/82aeb6a2-711c-4412-a0c0-2e5708695e61)
